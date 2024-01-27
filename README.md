@@ -15,3 +15,5 @@ Nice to see you on my GitHub page. I'm mobile developer at Siberia. Strong knowl
 - Gradle
 - CI/CD automation
 - KMP
+- KSP/APT/KAPT
+- Kotlin compiler plugin
